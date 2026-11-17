@@ -26,6 +26,6 @@ CRONO is an Android stopwatch designed to measure and record cycle times in indu
 
 ## Corrosion Labs
 
-[Official website](https://corrosionlabs.github.io/)
+[Official website](https://corrosionlabs.github.io/tools/)
 
 The repository provides compiled releases of CRONO. The source code is not published here.
