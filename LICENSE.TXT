@@ -1,0 +1,76 @@
+# CORROSION LABS
+## Freeware Proprietary License
+
+**Application:** [CRONO]  
+**Copyright © 2026 Corrosion Labs. All rights reserved.**
+
+### 1. General
+
+This software is distributed free of charge under the Corrosion Labs name.
+
+The software is proprietary. Its source code is not publicly distributed, and all rights not expressly granted under this license are reserved.
+
+### 2. Permitted Use
+
+You are granted a non-exclusive, worldwide, royalty-free license to:
+
+- Download, install, and use the software free of charge.
+- Use the software for personal, educational, professional, or commercial purposes.
+- Make backup copies for personal use or internal organizational purposes.
+
+No payment, subscription, or registration is required.
+
+### 3. Restrictions
+
+Without prior written authorization from the copyright holder, you may not:
+
+- Sell, sublicense, rent, or commercially exploit the software.
+- Include the software in paid software packages or services.
+- Distribute modified versions of the software.
+- Remove or alter copyright notices or attribution.
+- Present the software as your own creation or imply official endorsement by Corrosion Labs.
+
+Modification, reverse engineering, decompilation, or other activities are restricted except where expressly permitted by mandatory applicable law.
+
+### 4. Free Redistribution
+
+Redistribution of unmodified copies of the software is permitted free of charge, provided that:
+
+- The software is distributed in its original, unmodified form.
+- This license and all copyright notices are preserved.
+- Corrosion Labs is clearly identified as the original publisher.
+- No fee is charged for the software itself.
+- No endorsement by Corrosion Labs is implied.
+
+Official website: https://corrosionlabs.github.io/
+
+### 5. Intellectual Property
+
+The software and its original components remain the intellectual property of their respective copyright holders.
+
+Corrosion Labs is the name under which the software is published.
+
+No ownership rights are transferred under this license.
+
+Third-party components remain subject to their respective licenses.
+
+### 6. Warranty and Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+Nothing in this license excludes rights or liabilities that cannot legally be waived.
+
+### 7. Applicable Law
+
+This license is governed by Spanish law, without prejudice to mandatory provisions of applicable law.
+
+All rights not expressly granted are reserved.
+
+---
+
+**Corrosion Labs**  
+https://corrosionlabs.github.io/
+
+*Free to Use · Proprietary Software · Attribution Required*
